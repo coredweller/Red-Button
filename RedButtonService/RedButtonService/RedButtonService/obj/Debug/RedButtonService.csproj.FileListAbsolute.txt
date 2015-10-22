@@ -1,0 +1,6 @@
+C:\Projects\Red Button Project\Code\Red Button\RedButtonService\RedButtonService\RedButtonService\bin\RedButtonService.dll.config
+C:\Projects\Red Button Project\Code\Red Button\RedButtonService\RedButtonService\RedButtonService\bin\RedButtonService.dll
+C:\Projects\Red Button Project\Code\Red Button\RedButtonService\RedButtonService\RedButtonService\bin\RedButtonService.pdb
+C:\Projects\Red Button Project\Code\Red Button\RedButtonService\RedButtonService\RedButtonService\obj\Debug\RedButtonService.csprojResolveAssemblyReference.cache
+C:\Projects\Red Button Project\Code\Red Button\RedButtonService\RedButtonService\RedButtonService\obj\Debug\RedButtonService.dll
+C:\Projects\Red Button Project\Code\Red Button\RedButtonService\RedButtonService\RedButtonService\obj\Debug\RedButtonService.pdb

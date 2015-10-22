@@ -1,0 +1,6 @@
+RedButton/bin
+RedButton/obj
+RedButtonService/bin
+RedButtonService/obj
+Logs
+*.suo
